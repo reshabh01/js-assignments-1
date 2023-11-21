@@ -12,7 +12,12 @@ This website fetch the bank and branch details from IFSC code
 - ![image](https://github.com/reshabh01/js-assignments-1/assets/150249659/9068aafc-6068-46da-b198-83abb53a86c2)
 
 
+## API used
+- https://ifsc.razorpay.com/
+
+  
 ## Tech stack used
 - HTML
 - CSS
 - Javascript
+
